@@ -5614,11 +5614,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/prosenjitsaha/Desktop/PJ/Lab/Training/CityInfo.API/CityInfo.API.csproj",
+      "projectUniqueName": "/Users/prosenjitsaha/Desktop/PJ/Lab/Training/GitDemo/cityinfo.api/CityInfo.API.csproj",
       "projectName": "CityInfo.API",
-      "projectPath": "/Users/prosenjitsaha/Desktop/PJ/Lab/Training/CityInfo.API/CityInfo.API.csproj",
+      "projectPath": "/Users/prosenjitsaha/Desktop/PJ/Lab/Training/GitDemo/cityinfo.api/CityInfo.API.csproj",
       "packagesPath": "/Users/prosenjitsaha/.nuget/packages/",
-      "outputPath": "/Users/prosenjitsaha/Desktop/PJ/Lab/Training/CityInfo.API/obj/",
+      "outputPath": "/Users/prosenjitsaha/Desktop/PJ/Lab/Training/GitDemo/cityinfo.api/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/Users/prosenjitsaha/.nuget/NuGet/NuGet.Config"
