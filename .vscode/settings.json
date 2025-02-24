@@ -1,0 +1,4 @@
+{
+    "appService.defaultWebAppToDeploy": "/subscriptions/80ea84e8-afce-4851-928a-9e2219724c69/resourceGroups/1-521fa2ca-playground-sandbox/providers/Microsoft.Web/sites/CityInfo-API",
+    "appService.deploySubpath": "bin/Publish"
+}
