@@ -15,7 +15,7 @@ using Azure.Security.KeyVault.Secrets;
 using Azure.Identity;
 using Azure.Extensions.AspNetCore.Configuration.Secrets;
 
-Log.Logger = new LoggerConfiguration()
+Log.Logger = new LoggerConfiguration() //configure log sink
     .MinimumLevel.Debug()
     .WriteTo.Console()
     .CreateLogger();
