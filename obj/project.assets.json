@@ -5609,25 +5609,30 @@
     ]
   },
   "packageFolders": {
-    "/Users/prosenjitsaha/.nuget/packages/": {}
+    "C:\\Users\\prosenjitsaha\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/prosenjitsaha/Desktop/PJ/Lab/Training/GitDemo/cityinfo.api/CityInfo.API.csproj",
+      "projectUniqueName": "C:\\Training\\C#\\GitHub\\CityInfo.API.csproj",
       "projectName": "CityInfo.API",
-      "projectPath": "/Users/prosenjitsaha/Desktop/PJ/Lab/Training/GitDemo/cityinfo.api/CityInfo.API.csproj",
-      "packagesPath": "/Users/prosenjitsaha/.nuget/packages/",
-      "outputPath": "/Users/prosenjitsaha/Desktop/PJ/Lab/Training/GitDemo/cityinfo.api/obj/",
+      "projectPath": "C:\\Training\\C#\\GitHub\\CityInfo.API.csproj",
+      "packagesPath": "C:\\Users\\prosenjitsaha\\.nuget\\packages\\",
+      "outputPath": "C:\\Training\\C#\\GitHub\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "/Users/prosenjitsaha/.nuget/NuGet/NuGet.Config"
+        "C:\\Users\\prosenjitsaha\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
         "net8.0"
       ],
       "sources": {
-        "https://api.nuget.org/v3/index.json": {}
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "C:\\Program Files\\dotnet\\library-packs": {},
+        "U:\\Training\\C#\\MyLocalPackages": {},
+        "https://api.nuget.org/v3/index.json": {},
+        "https://pkgs.dev.azure.com/costcocloudops/49d8faf3-6322-4573-ad85-3b421c43f10e/_packaging/payment-hub/nuget/v3/index.json": {}
       },
       "frameworks": {
         "net8.0": {
@@ -5644,8 +5649,7 @@
         "enableAudit": "true",
         "auditLevel": "low",
         "auditMode": "direct"
-      },
-      "SdkAnalysisLevel": "9.0.200"
+      }
     },
     "frameworks": {
       "net8.0": {
@@ -5751,7 +5755,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/9.0.200/PortableRuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.403/PortableRuntimeIdentifierGraph.json"
       }
     }
   }
