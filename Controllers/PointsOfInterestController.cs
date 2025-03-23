@@ -12,7 +12,7 @@ namespace CityInfo.API.Controllers
     [ApiVersion(1)]
     [ApiVersion(2)]
     [ApiController]
-    [Authorize(Policy = "MemberMustBeFromParis")]
+    //[Authorize(Policy = "MemberMustBeFromParis")]
     public class PointsOfInterestController : ControllerBase
     {
         private readonly ILogger<PointsOfInterestController> _logger;
