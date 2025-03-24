@@ -192,7 +192,6 @@ C:/Users/prosenjitsaha/Desktop/Training/CityInfo.API/bin/Debug/net8.0/Asp.Versio
 /Users/prosenjitsaha/Desktop/PJ/Lab/Training/CityInfo.API/bin/Debug/net8.0/appsettings.production.json
 /Users/prosenjitsaha/Desktop/PJ/Lab/Training/CityInfo.API/bin/Debug/net8.0/CityInfo.API.staticwebassets.endpoints.json
 /Users/prosenjitsaha/Desktop/PJ/Lab/Training/CityInfo.API/bin/Debug/net8.0/CityInfo.API
-/Users/prosenjitsaha/Desktop/PJ/Lab/Training/CityInfo.API/bin/Debug/net8.0/getting-started-with-rest-slides.pdf
 /Users/prosenjitsaha/Desktop/PJ/Lab/Training/CityInfo.API/bin/Debug/net8.0/CityInfo.API.deps.json
 /Users/prosenjitsaha/Desktop/PJ/Lab/Training/CityInfo.API/bin/Debug/net8.0/CityInfo.API.runtimeconfig.json
 /Users/prosenjitsaha/Desktop/PJ/Lab/Training/CityInfo.API/bin/Debug/net8.0/CityInfo.API.dll
@@ -391,3 +390,4 @@ C:/Users/prosenjitsaha/Desktop/Training/CityInfo.API/bin/Debug/net8.0/Asp.Versio
 /Users/prosenjitsaha/Desktop/PJ/Lab/Training/CityInfo.API/obj/Debug/net8.0/CityInfo.API.pdb
 /Users/prosenjitsaha/Desktop/PJ/Lab/Training/CityInfo.API/obj/Debug/net8.0/CityInfo.API.genruntimeconfig.cache
 /Users/prosenjitsaha/Desktop/PJ/Lab/Training/CityInfo.API/obj/Debug/net8.0/ref/CityInfo.API.dll
+/Users/prosenjitsaha/Desktop/PJ/Lab/Training/CityInfo.API/obj/Debug/net8.0/CityInfo.API.sourcelink.json
